@@ -1,0 +1,39 @@
+_repo: The-conquest-of-the-great-Northwest-Volume-2-of-2-b-Being-the-story-of-the-adventurers-of-Eng__70122
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Laut, Agnes C.
+    aliases:
+    - Laut, Agnes Christina
+    - Laut, Agnes C. (Agnes Christina)
+    birthdate: 1871
+    deathdate: 1936
+    gutenberg_agent_id: '7761'
+    url: http://www.gutenberg.org/2009/agents/7761
+    wikipedia: https://en.wikipedia.org/wiki/Agnes_Christina_Laut
+description: ''
+gutenberg_issued: '2023-02-23'
+identifiers:
+  gutenberg: '70122'
+language: en
+pgterms:marc904: https://archive.org/details/conquestofgreatn02laut/page/n7/mode/2up?q=The+conquest+of+the+great+northwest
+pgterms:marc905: 20221123184615laut
+pgterms:marc906: '1908'
+pgterms:marc907: us
+production_note: Fiona Holmes and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries.)
+publication_note: '  $aUnited States :$bThe Outing Publishing Company, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hudson''s Bay Company'
+- !lcsh 'Northwest, Canadian'
+- !lcsh 'Hudson Bay -- History'
+- !lcc 'F1001'
+- GITenberg
+title: "The conquest of the great Northwest, Volume 2 (of 2)\r\n$b Being the story\
+  \ of the adventurers of England known as the Hudson's Bay Company, new pages in\
+  \ the history of the Canadian northwest and western states"
+url: http://www.gutenberg.org/ebooks/70122
