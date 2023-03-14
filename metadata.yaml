@@ -1,5 +1,8 @@
 _repo: The-conquest-of-the-great-Northwest-Volume-2-of-2-b-Being-the-story-of-the-adventurers-of-Eng__70122
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70122-h/images/cover.jpg
 creator:
   author:
     agent_name: Laut, Agnes C.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7761
     wikipedia: https://en.wikipedia.org/wiki/Agnes_Christina_Laut
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70122#The-conquest-of-the-great-Northwest-Volume-2-of-2-b-Being-the-story-of-the-adventurers-of-Eng_
 gutenberg_issued: '2023-02-23'
 identifiers:
   gutenberg: '70122'
